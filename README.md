@@ -2,14 +2,14 @@
 
 ### <span>  🟡🟡🟡🟡 SOBRE MI 🟡🟡🟡🟡</span>
 desarrollador y analista de software graduado en Analista Programador Universitario por la Universidad Nacional de Jujuy (UNJu). Actualmente, me encuentro estudiando Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional FRC, en mi perfil me gusta documentar lo que me enseñanan las materias de codigo para que quede registro de lo aprendido 😁😁😁.
-Actualmente en buqeuda de trabajo como desarrollador web o de software nativo que me ayude a progresar en mi carrera. 
+Actualmente en busqueda de trabajo como desarrollador web o de software nativo que me ayude a progresar profesionalmente. 
 
 ### <span style="color:#685735">Experiencia Laboral</span>
 - **Freelance Developer (2021 - Presente)**
   - Responsable de desarrollar soluciones de software para diversos clientes, trabajando en entornos desafiantes y cumpliendo con altos estándares de calidad y eficiencia.
 
 - **Backend Developer en PREL (Marzo - Julio)**
-  - Contribuí al desarrollo de aplicaciones backend, utilizando tecnologías como [mencionar tecnologías específicas si es posible].
+  - Contribuí al desarrollo de pasarelas de pagos y aplicaciones de streamingutilizando Express node.js, MongoDb y MySQL.
 
  ### <span style="color:#FF5733">Habilidades Técnicas</span>
 JavaScript, Node.js, Angular, MongoDB, MySQL, Scrum, Express, C#, .NET
