@@ -1,6 +1,6 @@
 ### <span style="color:#1589F0">Juan Coro - Desarrollador y Analista de Software</span>
 
-### <span style=`#0969DA`>  🟡🟡🟡🟡 SOBRE MI 🟡🟡🟡🟡</span>
+### <span>  🟡🟡🟡🟡 SOBRE MI 🟡🟡🟡🟡</span>
 desarrollador y analista de software graduado en Analista Programador Universitario por la Universidad Nacional de Jujuy (UNJu). Actualmente, me encuentro estudiando Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional FRC, en mi perfil me gusta documentar lo que me enseñanan las materias de codigo para que quede registro de lo aprendido 😁😁😁.
 Actualmente en buqeuda de trabajo como desarrollador web o de software nativo que me ayude a progresar en mi carrera. 
 
