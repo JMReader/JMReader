@@ -1,8 +1,10 @@
 ### <span style="color:#1589F0">Juan Coro - Desarrollador y Analista de Software</span>
 
 ### <span>  🟡🟡🟡🟡 SOBRE MI 🟡🟡🟡🟡</span>
-desarrollador y analista de software graduado en Analista Programador Universitario por la Universidad Nacional de Jujuy (UNJu). Actualmente, me encuentro estudiando Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional FRC, en mi perfil me gusta documentar lo que me enseñanan las materias de codigo para que quede registro de lo aprendido 😁😁😁.
-Actualmente en busqueda de trabajo como desarrollador web o de software nativo que me ayude a progresar profesionalmente. 
+desarrollador y analista de software graduado en la Universidad Nacional de Jujuy y trabjando para Mercado Libre.
+
+A su vez, me encuentro estudiando Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional FRC, en mi perfil me gusta documentar lo que me enseñanan las materias de codigo para que quede registro de lo aprendido 😁😁😁.
+
 
 ### <span style="color:#685735">Experiencia Laboral</span>
 - **Freelance Developer (2021 - Presente)**
