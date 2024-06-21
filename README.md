@@ -1,29 +1,21 @@
-### <span style="color:#1589F0">Juan Coro - Desarrollador y Analista de Software</span>
+### Hi there!! 🤙🤙
 
-### <span>  🟡🟡🟡🟡 SOBRE MI 🟡🟡🟡🟡</span>
-desarrollador y analista de software graduado en la Universidad Nacional de Jujuy y trabjando para Mercado Libre.
+## Software Analist and Developer
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&)](mailto:juanmcoro2003@gmail.com)
+[![Link Badge](https://img.shields.io/badge/-Linkedin-3b5998?style=flat-square&labelColor=3b5998&logo=linkedin&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](www.linkedin.com/in/j-mcoro)
 
-A su vez, me encuentro estudiando Ingeniería en Sistemas de la Información en la Universidad Tecnológica Nacional FRC, en mi perfil me gusta documentar lo que me enseñanan las materias de codigo para que quede registro de lo aprendido 😁😁😁.
+I am Juan Manuel, a software entusiasta. I currently work in Mercado Libre as a Backend & Machine Learning developer.
+
+I am graduate as software analist and programer in National University of Jujuy, now i Study a major in Systems engering in National Technoligy University (UTN), oh and I am Argentinan, obviusly :argentina:.
+
+I am also a very social person who loves team work to improve the results and liderates groups when is necesary :smile: 
+
+- :speaking_head: Lenguages : Java, Python & Javascript.
+- :computer: Tech skills: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp">  <img height="20" src="hhttps://www.svgrepo.com/show/354380/spring-icon.svg">  
+- :pushpin: other skills: Video Editing, Photoshop, Ligthroom & Scrum.
+- :pushpin: Hobbies: NBA, sports, stream & fashion.
 
 
-### <span style="color:#685735">Experiencia Laboral</span>
-- **Freelance Developer (2021 - Presente)**
-  - Responsable de desarrollar soluciones de software para diversos clientes, trabajando en entornos desafiantes y cumpliendo con altos estándares de calidad y eficiencia.
-
-- **Backend Developer en PREL (Marzo - Julio)**
-  - Contribuí al desarrollo de pasarelas de pagos y aplicaciones de streamingutilizando Express node.js, MongoDb y MySQL.
-
- ### <span style="color:#FF5733">Habilidades Técnicas</span>
-JavaScript, Node.js, Angular, MongoDB, MySQL, Scrum, Express, C#, .NET
-
-### <span style="color:yelllow">Educación</span>
-- **Técnico Informático - Escuela de Minas Dr. Horacio Carrillo, Jujuy**
-- **Analista Programador Universitario - Universidad Nacional de Jujuy (UNJu)**
-- **Ingeniería en Sistemas de la Información - Universidad Tecnológica Nacional (Estudiando actualmente)**
-
-### <span style="color:#E74C3C">Contacto</span>
-- Correo electrónico: juanmcoro@gmail.com
-- LinkedIn: www.linkedin.com/in/j-mcoro
 
 <!--
 **JMReader/JMReader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
