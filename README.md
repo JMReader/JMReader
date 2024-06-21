@@ -2,7 +2,7 @@
 
 ## Software Analist and Developer
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&)](mailto:juanmcoro2003@gmail.com)
-[![Link Badge](https://img.shields.io/badge/-Linkedin-3b5998?style=flat-square&labelColor=3b5998&logo=linkedin&logoColor=white)](www.linkedin.com/in/j-mcoro)
+[![Link Badge](https://img.shields.io/badge/-Linkedin-3b5998?style=flat-square&labelColor=3b5998&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-mcoro)
 
 I am Juan Manuel, a software enthusiast. I currently work in Mercado Libre as a Backend & Machine Learning developer.
 
