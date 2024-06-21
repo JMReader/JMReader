@@ -11,7 +11,7 @@ I graduated as software analist and programer in National University of Jujuy, I
 I am also a very social who loves team work to improve the results and leads groups when is necesary :smile: 
 
 - :speaking_head: Lenguages : Java, Python & Javascript.
-- :computer: Tech skills: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp">  <img height="20" src="hhttps://www.svgrepo.com/show/354380/spring-icon.svg">  
+- :computer: Tech skills: <img height="20" src="https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png">   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://cdn.iconscout.com/icon/free/png-256/free-angular-3628622-3029847.png?f=webp">  <img height="20" src="hhttps://www.svgrepo.com/show/354380/spring-icon.svg">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> 
 - :pushpin: other skills: Video Editing, Photoshop, Ligthroom & Scrum.
 - :pushpin: Hobbies: NBA, sports, stream & fashion.
 
